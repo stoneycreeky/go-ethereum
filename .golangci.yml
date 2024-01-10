@@ -34,6 +34,7 @@ linters:
     # - exhaustive # silly check
     # - makezero # false positives
     # - nilerr # several intentional
+    # go
 
 linters-settings:
   gofmt:
